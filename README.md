@@ -1,97 +1,99 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=ROMAN+BHARTI;CHEMICAL+ENGINEER+%2B+CODE+EXPLORER;BUILDING+MY+SDE+JOURNEY;SYSTEM+ONLINE+%E2%96%B0" alt="Animated typing introduction" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Animated coding banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090014,50:581C87,100:C084FC&text=BEYOND%20THE%20ORDINARY&fontColor=FFFFFF&fontSize=28&fontAlignY=40&animation=twinkling&desc=ENGINEER%20BY%20DEGREE%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=11" width="100%" alt="Animated purple cyberpunk header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hi+%2C+I'm+Roman+Bharti;Chemical+Engineering+%40+NIT+Raipur;Learning+C%2B%2B+%26+DSA;Aspiring+Software+Engineer" alt="Animated typing introduction" />
 
-### `// WELCOME TO MY DIGITAL UNIVERSE`
+<h3>A Chemical Engineer exploring the world of software development.</h3>
 
-**Chemical Engineering @ NIT Raipur | Aspiring Software Engineer**
+<img src="https://komarev.com/ghpvc/?username=romanbharti1&label=PROFILE%20VIEWS&color=8B5CF6&style=flat" alt="Profile views" />
 
-*Engineering mind. Developer mindset. Infinite possibilities.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-18122B?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/romanbharti1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-18122B?style=for-the-badge&logo=googlechrome&logoColor=C084FC)](https://romanbharti.me)
+<a href="https://github.com/romanbharti1">
+<img src="https://img.shields.io/badge/GitHub-Roman%20Bharti-18122B?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub profile" />
+</a>
+<a href="https://romanbharti.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-18122B?style=for-the-badge&logo=googlechrome&logoColor=C084FC" alt="Personal website" />
+</a>
 
 </div>
+
+<img align="right" alt="Animated coding developer" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 👨‍💻 About Me
+
+- 🎓 Chemical Engineering student at **NIT Raipur**
+- 🌱 Currently learning **C++ and Data Structures & Algorithms**
+- 💻 Interested in software development and problem-solving
+- 🎯 Goal: Prepare for SDE internships and placements
+- ⚡ Belief: Great engineers can build across disciplines
+
+<br clear="right"/>
 
 ---
 
-## `01 // ABOUT ME`
+### 🛠️ Languages & Technologies
+
+<p align="left">
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://img.shields.io/badge/C%2B%2B-Learning-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ learning"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+<a href="https://github.com/romanbharti1">
+<img src="https://img.shields.io/badge/GitHub-Code%20Repository-18122B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+### 🎯 Current Mission
 
 ```text
-> NAME      : Roman Bharti
-> COLLEGE   : NIT Raipur
-> BRANCH    : Chemical Engineering
-> LEARNING  : C++ | DSA
-> TARGET    : Software Development Engineering
-> STATUS    : LEARNING • BUILDING • IMPROVING
+[ IN PROGRESS ]  C++ FUNDAMENTALS
+[ IN PROGRESS ]  DATA STRUCTURES & ALGORITHMS
+[ UPCOMING    ]  PROBLEM SOLVING PRACTICE
+[ UPCOMING    ]  BUILDING ORIGINAL PROJECTS
+[ LONG-TERM   ]  SDE INTERNSHIPS & PLACEMENTS
 ```
 
-I'm a Chemical Engineering student exploring software development and problem-solving.
+### 🚀 Project Lab
 
-Currently learning C++ and Data Structures & Algorithms, with the goal of becoming a software engineer and building useful products.
+I am working toward building practical software projects and strengthening my programming fundamentals.
 
-I believe that engineering is not just about the branch you choose. It's about how you think, solve problems, and turn ideas into reality.
+My project showcase will grow as I publish real repositories.
 
-## `02 // MY CURRENT FOCUS`
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=romanbharti1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=E6EDF3" alt="GitHub statistics" width="100%" />
+</p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-Learning-C084FC?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-In_Progress-7C3AED?style=for-the-badge&logo=thealgorithms&logoColor=white)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanbharti1&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E6EDF3" alt="Most used programming languages" />
+</p>
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=romanbharti1&theme=transparent&hide_border=true&background=0D1117&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub contribution streak" width="100%" />
+</p>
 
-- Learning C++ fundamentals.
-- Improving logical thinking and problem-solving.
-- Practising Data Structures & Algorithms.
-- Working toward my first meaningful software projects.
-- Preparing for hackathons, internships, and SDE placements.
+---
 
-## `03 // MY ROADMAP`
+### 🌐 Connect With Me
 
-```text
-[ ACTIVE ] C++ FUNDAMENTALS
-[ ACTIVE ] DATA STRUCTURES & ALGORITHMS
-[ NEXT   ] PROBLEM SOLVING
-[ NEXT   ] BUILDING REAL PROJECTS
-[ GOAL   ] SDE INTERNSHIP
-[ GOAL   ] SOFTWARE ENGINEERING CAREER
-```
-
-## `04 // GITHUB COMMAND CENTER`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=romanbharti1&show_icons=true&hide_border=true&bg_color=0D0618&title_color=C084FC&icon_color=A78BFA&text_color=E9D5FF" alt="GitHub statistics" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanbharti1&layout=compact&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF" alt="Most used programming languages" width="100%" />
-
-<img src="https://streak-stats.demolab.com?user=romanbharti1&theme=transparent&hide_border=true&background=0D0618&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=9B8AAE" alt="GitHub contribution streak" width="100%" />
-
-</div>
-
-## `05 // PROJECT LAB`
-
-> Every developer begins with an idea. The mission is to turn it into something real.
-
-This section will grow as I publish original projects, C++ practice, algorithm implementations, and practical software experiments.
-
-**Current mission:** Learn the fundamentals. Build consistently. Publish real work.
-
-## `06 // CONNECT`
+<p align="left">
+<a href="https://github.com/romanbharti1">
+<img src="https://img.shields.io/badge/GitHub-Follow-18122B?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub"/>
+</a>
+<a href="https://romanbharti.me">
+<img src="https://img.shields.io/badge/Website-Visit-18122B?style=for-the-badge&logo=googlechrome&logoColor=C084FC" alt="Website"/>
+</a>
+</p>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-18122B?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/romanbharti1)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:581C87,100:C084FC&height=110&section=footer&animation=twinkling" width="100%" alt="Animated purple footer"/>
 
-[![Portfolio](https://img.shields.io/badge/VISIT_MY_WEBSITE-18122B?style=for-the-badge&logo=googlechrome&logoColor=C084FC)](https://romanbharti.me)
+**`LEARN. BUILD. DEBUG. REPEAT.`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:581C87,100:C084FC&height=100&section=footer" width="100%" alt="Purple footer" />
-
-**`DREAM IT. DEBUG IT. BUILD IT.`**
-
-<sub>One engineer. Multiple possibilities. Always under development.</sub>
+<sub>One engineer. Multiple possibilities. Always learning.</sub>
 
 </div>
